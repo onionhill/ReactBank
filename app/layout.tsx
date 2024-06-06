@@ -11,7 +11,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Lokas Bank",
-  description: "Lokas Bank is a scam bank",
+  description: "Lokas Bank is totaly nota scam bank",
   icons:{
     icon: '/icons/logo.svg'
   }
